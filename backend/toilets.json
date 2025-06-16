@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1747250890503,
+    "name": "bhopal toilet",
+    "description": "toilet in bhopal region ",
+    "lat": 22.98854345875327,
+    "lng": 77.43164062500001,
+    "rating": 5
+  },
+  {
+    "id": 1747250949488,
+    "name": "shivajinagar toilet ",
+    "description": "toilet in shivajinagar road",
+    "lat": 12.9820357296425,
+    "lng": 77.60433197021486,
+    "votes": 8,
+    "ratings": [
+      4
+    ],
+    "reports": [
+      null
+    ]
+  },
+  {
+    "id": 1747251009304,
+    "name": "lingarajapuram toilet",
+    "description": "toilet is just opp to kalyan nagar bus stand ",
+    "lat": 13.005110991410707,
+    "lng": 77.62390136718751,
+    "rating": 3,
+    "comments": [
+      "everytime i visit its clean"
+    ],
+    "votes": 3,
+    "ratings": [
+      5,
+      5
+    ]
+  },
+  {
+    "id": 1747251111514,
+    "name": "seshadripuram toilet",
+    "description": "near sanky tank u can find this toilet ",
+    "lat": 12.992492356329194,
+    "lng": 77.5748920440674,
+    "comments": [
+      "its clean ",
+      "its hygiene"
+    ],
+    "reports": [
+      "sometimes its closed in daytime ",
+      "closed"
+    ],
+    "votes": 5,
+    "ratings": [
+      3,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 1747417789469,
+    "name": "race course toilet",
+    "description": "opposite to ks juice shop ",
+    "lat": 12.296690423266806,
+    "lng": 76.67085809869391,
+    "rating": 4
+  },
+  {
+    "id": 1747417846823,
+    "name": "bullapura toilet",
+    "description": "located at the main road of kali temple road",
+    "lat": 13.82054306084096,
+    "lng": 75.6853523454297,
+    "rating": null
+  },
+  {
+    "id": 1747418015788,
+    "name": "kadapa toilet ",
+    "description": "located near bus stand of kalyani road",
+    "lat": 14.4712756326856,
+    "lng": 78.8201302869989,
+    "rating": null
+  },
+  {
+    "id": 1747758456446,
+    "name": "Shanti toilet ",
+    "description": "near KR bus stop",
+    "lat": 12.95476789598704,
+    "lng": 77.58407592773439,
+    "ratings": [],
+    "comments": [],
+    "reports": [],
+    "votes": 0
+  },
+  {
+    "id": 1747758475101,
+    "name": "koramangala toilet ",
+    "description": "near bus stop",
+    "lat": 12.93468085113884,
+    "lng": 77.61943817138673,
+    "ratings": [],
+    "comments": [],
+    "reports": [],
+    "votes": 0
+  },
+  {
+    "id": 1747758510505,
+    "name": "raja nagar toilet ",
+    "description": "located near S N mall",
+    "lat": 12.931667654845063,
+    "lng": 77.51815795898439,
+    "ratings": [
+      2,
+      5,
+      3
+    ],
+    "comments": [
+      "its  hygiene ",
+      "its clean "
+    ],
+    "reports": [
+      "sometimes closed "
+    ],
+    "votes": 6
+  },
+  {
+    "id": 1747759658600,
+    "name": "beguru toilet",
+    "description": "near petrol bunk ",
+    "lat": 12.874403311665448,
+    "lng": 77.62081146240236,
+    "ratings": [
+      5,
+      4,
+      4
+    ],
+    "comments": [
+      "clean",
+      "crowded"
+    ],
+    "reports": [],
+    "votes": 3
+  },
+  {
+    "id": 1747798903237,
+    "name": "peenya toilet ",
+    "description": "near the CN railway station",
+    "lat": 13.032697930638207,
+    "lng": 77.52880096435548,
+    "ratings": [],
+    "comments": [],
+    "reports": [],
+    "votes": 0
+  },
+  {
+    "id": 1747799302576,
+    "name": "atria university toilet",
+    "description": "inside atria college",
+    "lat": 13.032554021703318,
+    "lng": 77.59219765663148,
+    "ratings": [
+      3
+    ],
+    "comments": [
+      "its clean sometimes"
+    ],
+    "reports": [
+      "its dirty rarely"
+    ],
+    "votes": 10
+  },
+  {
+    "id": 1747815566341,
+    "name": "chikkapete toilet",
+    "description": "its near the church road",
+    "lat": 12.968754570155257,
+    "lng": 77.57583618164064,
+    "ratings": [
+      2,
+      5,
+      4,
+      4,
+      4
+    ],
+    "comments": [
+      "its clean"
+    ],
+    "reports": [
+      "closed"
+    ],
+    "votes": 2
+  },
+  {
+    "id": 1747815624052,
+    "name": "sadashivanagar toilet ",
+    "description": "its near the lake",
+    "lat": 13.010045776640697,
+    "lng": 77.58424758911133,
+    "ratings": [
+      4,
+      3,
+      5,
+      5,
+      3
+    ],
+    "comments": [
+      "clean",
+      "hygiene"
+    ],
+    "reports": [
+      "dirty"
+    ],
+    "votes": 6
+  },
+  {
+    "id": 1750049243267,
+    "name": "naga ",
+    "description": "nagasandra toilet near bus stop",
+    "lat": 13.035188834293356,
+    "lng": 77.49618530273439,
+    "ratings": [],
+    "comments": [],
+    "reports": [],
+    "votes": 0
+  }
+]
